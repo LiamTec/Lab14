@@ -81,6 +81,8 @@ Esta es una aplicación full-stack desarrollada con **React** en el frontend y *
   Series : http://127.0.0.1:8000/series/api/v1series/
 
   Categories : http://127.0.0.1:8000/series/api/categories/
+
+  Login : http://127.0.0.1:8000/series/api/v1/login/
   
   ### React
 
