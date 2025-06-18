@@ -52,6 +52,10 @@ Esta es una aplicación full-stack desarrollada con **React** en el frontend y *
   Instalar dependencias
   
     pip install -r requirements.txt
+
+  Creacion de Super Usuario 
+
+      python manage.py createsuperuser
   
   Migraciones y ejecución
   
@@ -79,6 +83,8 @@ Esta es una aplicación full-stack desarrollada con **React** en el frontend y *
   Categories : http://127.0.0.1:8000/series/api/categories/
   
   ### React
+
+  /admin - Admin de Django 
   
   /series – Listado de series
   
