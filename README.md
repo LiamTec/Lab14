@@ -64,7 +64,7 @@ Esta es una aplicación full-stack desarrollada con **React** en el frontend y *
     
 ### 3. Frontend - React
 
-    cd lab12
+    cd lab14
 
   Instalar dependencias
   
